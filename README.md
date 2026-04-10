@@ -8,7 +8,7 @@ Setiap node hanya mengetahui alamat node berikutnya melalui pointer.
 Untuk mengakses elemen ke-n, harus mulai dari head dan mengikuti pointer satu per satu.
 Inilah yang menyebabkan waktu akses menjadi O(n).
 
-2.Analisis Efisiensi Operasi Manipulasi
+2. Analisis Efisiensi Operasi Manipulasi
 Linked List lebih unggul dibanding Array dalam operasi penyisipan (insertion) dan penghapusan (deletion) ketika:
 Kondisi:
 Sering terjadi penambahan/penghapusan di tengah atau awal struktur data
